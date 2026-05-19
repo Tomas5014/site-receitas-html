@@ -23,7 +23,11 @@ A static recipe website built without any frameworks or external libraries — j
 - Source control with Git
 - Publishing and managing a repository on GitHub
 
-## 🚀 How to View
+## 🌐 Live Demo
+
+👉 [tomas5014.github.io/site-receitas-html](https://tomas5014.github.io/site-receitas-html/index.html)
+
+## 🚀 How to Run Locally
 
 1. Clone the repository:
    ```bash
@@ -33,4 +37,4 @@ A static recipe website built without any frameworks or external libraries — j
 
 ---
 
-Project developed for study and practice purposes.
+Project developed for study and practice purposes. ✨
